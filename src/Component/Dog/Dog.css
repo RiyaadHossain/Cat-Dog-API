@@ -1,0 +1,7 @@
+.picture{
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+    border: 4.5px solid lightgreen;
+    margin-top: 150px;
+}
